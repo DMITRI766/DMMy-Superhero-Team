@@ -31,8 +31,8 @@
 
 #Слабые стороны
 #Уязвимость к жаре и звукам: Звуки высокой интенсивности или жара могут нарушить ее связь с симбиотом. 
-![maniac](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomized_Iron_Man.png).
+![VenomIron](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomized_Iron_Man.png).
 
-![maniac]([https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Maniac.png](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomzide_Dr._Strange.png)https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomzide_Dr._Strange.png).
+![venomstreng](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomzide_Dr._Strange.png).
 
-![maniac]([https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Maniac.png](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/iron-heart-venom.png)https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/iron-heart-venom.png).
+![venomironhart]((https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/iron-heart-venom.png)).
