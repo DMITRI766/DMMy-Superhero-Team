@@ -35,4 +35,4 @@
 
 ![venomstreng](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomzide_Dr._Strange.png).
 
-![venomironhart]((https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/iron-heart-venom.png)).
+![venomironhart](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/iron-heart-venom.png).
