@@ -16,3 +16,23 @@
 #Опытный боец: Гвен — опытный боец вольного стиля. Тем не менее, она #научилась большинству своих движений из фильмов о кунг-фу; [26] По #словам Синди Мун, Гвен не знает, как правильно наносить удары. [39] См.
 #Слабые стороны
 #Уязвимость к жаре и звукам: Звуки высокой интенсивности или жара могут #нарушить ее связь с симбиотом. 
+![maniac](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Maniac.png).
+#Сверхчеловеческая сила
+#Сверхчеловеческая выносливость
+#Сверхчеловеческая стойкость
+#Сверхчеловеческая скорость, ловкость и рефлексы
+#Фактор ускоренного заживления
+#Ползание по стенам
+#Экстрасенсорика (Чувство паука)
+#Невосприимчивость к Паучьему чутью Человека-паука
+#Возможности маскировки
+#Составляющая-Генерация материи
+#Манипулирование составной материей
+
+#Слабые стороны
+#Уязвимость к жаре и звукам: Звуки высокой интенсивности или жара могут нарушить ее связь с симбиотом. 
+![maniac](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomized_Iron_Man.png).
+
+![maniac]([https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Maniac.png](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomzide_Dr._Strange.png)https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Venomzide_Dr._Strange.png).
+
+![maniac]([https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/Maniac.png](https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/iron-heart-venom.png)https://github.com/DMITRI766/DMMy-Superhero-Team/blob/main/iron-heart-venom.png).
